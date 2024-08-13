@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+<style>
+
+</style>
 
 <?php include "./includes/head.php" ?>
 <body>
@@ -259,12 +262,12 @@
                                 <img class="img-fluid w-100" src="img/2.png" alt="">
                                 <div class="portfolio-overlay">
                                     <a class="btn btn-square btn-outline-light mx-1" href="img/2.png" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                    <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                                    <a class="btn btn-square btn-outline-light mx-1" href="https://focdigitalacademy.org"><i class="fa fa-link"></i></a>
                                 </div>
                             </div>
                             <div class="bg-light p-4">
-                                <p class="text-primary fw-medium mb-2">UI / UX Design</p>
-                                <h5 class="lh-base mb-0">Digital Agency Website Design And Development</a>
+                                <p class="text-primary fw-medium mb-2">FOC Digital Academy</p>
+                                <h5 class="lh-base mb-0">A transformative and life changing platform for all who want success</a>
                             </div>
                         </div>
                     </div>
@@ -289,12 +292,12 @@
                                 <img class="img-fluid w-100" src="img/7.png" alt="">
                                 <div class="portfolio-overlay">
                                     <a class="btn btn-square btn-outline-light mx-1" href="img/7.png" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                    <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                                    <a class="btn btn-square btn-outline-light mx-1" href="http://ransemstudio.org"><i class="fa fa-link"></i></a>
                                 </div>
                             </div>
                             <div class="bg-light p-4">
                                 <p class="text-primary fw-medium mb-2">Ransem Studios</p>
-                                <h5 class="lh-base mb-0">A studios dream website for showcasing its products</a>
+                                <h5 class="lh-base mb-0">A studios' dream website for showcasing its products</a>
                             </div>
                         </div>
                     </div>
@@ -304,12 +307,12 @@
                                 <img class="img-fluid w-100" src="img/5.png" alt="">
                                 <div class="portfolio-overlay">
                                     <a class="btn btn-square btn-outline-light mx-1" href="img/5.png" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                    <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                                    <a class="btn btn-square btn-outline-light mx-1" href="https://focdigitalacademy.org"><i class="fa fa-link"></i></a>
                                 </div>
                             </div>
                             <div class="bg-light p-4">
-                                <p class="text-primary fw-medium mb-2">UI / UX Design</p>
-                                <h5 class="lh-base mb-0">Digital Agency Website Design And Development</a>
+                                <p class="text-primary fw-medium mb-2">FOC Digital academy</p>
+                                <h5 class="lh-base mb-0">Transformative and life changing platform for all who want success</a>
                             </div>
                         </div>
                     </div>
@@ -387,9 +390,9 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="img/vincent.jpeg" alt="">
+                                <img class="img-fluid rounded-circle mb-4" style = "width:250px; height:250px;" src="img/vincent.jpeg" alt="">
                                 <h5>Vincent Bett</h5>
-                                <span>Project Manager</span>
+                                <span>Backend Engineer</span>
                             </div>
                             <div class="d-flex justify-content-center p-4">
                                
@@ -400,39 +403,39 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="img/bryan.jpeg" alt="">
+                                <img class=" img-fluid rounded-circle mb-4" style = "width:250px; height:250px;"src="img/bryan.jpeg" alt="">
                                 <h5>Bryan Ruiru</h5>
-                                <span>Finance Manager</span>
+                                <span>Web developer</span>
                             </div>
                             <div class="d-flex justify-content-center p-4">
                                
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-square mx-1" href="http://linkedin.com/in/bryanruiru/"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="img/jacob.jpeg" alt="">
+                                <img class="img-fluid rounded-circle mb-4" style = "width:250px; height:250px;" src="img/jay.jpeg" alt="">
                                 <h5>Jacob Korir</h5>
-                                <span>Relationship Manager</span>
+                                <span>Cloud Practitioner</span>
                             </div>
                             <div class="d-flex justify-content-center p-4">
                               
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/jacob-kipkerich-2237521b0/"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                     </div>
                      <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="img/Manaseh.jpeg" alt="">
+                                <img class="img-fluid rounded-circle mb-4" style = "width:250px; height:250px;" src="img/Manaseh.jpeg" alt="">
                                 <h5>Manaseh</h5>
-                                <span>Welfare Manager</span>
+                                <span>Python developer</span>
                             </div>
                             <div class="d-flex justify-content-center p-4">
                               
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/manaseh-mbuthia-710a0b250/"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                     </div>
@@ -443,54 +446,7 @@
         
 
         <!-- Footer Start -->
-        <div class="container-fluid bg-primary text-light footer wow fadeIn" data-wow-delay="0.1s">
-            <div class="container py-5 px-lg-5">
-                <div class="row g-5">
-                    <div class="col-md-6 col-lg-3">
-                        <p class="section-title text-white h5 mb-4">Address<span></span></p>
-                        <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                        <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                        <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
-                        <div class="d-flex pt-2">
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-instagram"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <p class="section-title text-white h5 mb-4">Quick Link<span></span></p>
-                        <a class="btn btn-link" href="">About Us</a>
-                        <a class="btn btn-link" href="">Contact Us</a>
-                        <a class="btn btn-link" href="">Privacy Policy</a>
-                        <a class="btn btn-link" href="">Terms & Condition</a>
-                        <a class="btn btn-link" href="">Career</a>
-                    </div>
-                   
-                   
-                </div>
-            </div>
-            <div class="container px-lg-5">
-                <div class="copyright">
-                    <div class="row">
-                        <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                            &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved. 
-							
-							<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-							Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
-                        </div>
-                        <div class="col-md-6 text-center text-md-end">
-                            <div class="footer-menu">
-                                <a href="">Home</a>
-                                <a href="">Cookies</a>
-                                <a href="">Help</a>
-                                <a href="">FQAs</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+       <?php include "./includes/footer.php"?>
         <!-- Footer End -->
 
 
