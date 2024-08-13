@@ -1,7 +1,8 @@
-    <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-                <a href="" class="navbar-brand p-0">
-                    <img src="img/logo1.png"      alt="Logo">
-                </a>
+
+   <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-2 py-3 py-lg-0">
+            <img class="fixed"src="img/logo1.png"  style ="width:120px; height:auto;"    alt="Logo">
+
+              
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
                 </button>
